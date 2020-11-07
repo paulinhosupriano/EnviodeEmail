@@ -1,0 +1,10 @@
+{
+    "autoload": {
+    "psr-4": {
+      "Support\\":"Support"
+    }
+  },
+     "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
