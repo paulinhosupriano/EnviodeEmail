@@ -1,3 +1,3 @@
-# envio de e-mail
+# Envio de e-mail - PHP
 
-Envio de E-mail utilizando PHP
+Envio de E-mail utilizando a Classe PHPMailer
